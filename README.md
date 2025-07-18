@@ -1,1 +1,34 @@
-![ChatGPT Image 29 cze 2025, 12_51_26](https://github.com/user-attachments/assets/2774c12e-44ac-4745-9da8-c6aedf024482)
+# 🤝 Mate Me
+
+An interactive web application for matching potential friends or teammates based on shared traits, preferences, or personality characteristics. The app analyzes input data to suggest compatible "mates" — ideal for networking, study groups, or hobby connections.
+
+Suggestions are displayed along with visual explanations and groupings.
+
+---
+
+## 🔎 Logo
+
+<p align="center">
+  <img src="mateme.png" width="400" height="400">
+</p>
+
+---
+
+## 🛠 Technologies and tools
+
+- Python 🐍  
+- Streamlit  
+- Pandas  
+- Scikit-learn  
+- Seaborn / Matplotlib  
+- CSV / JSON data  
+
+---
+
+## 🚀 Skills demonstrated in this project
+
+- data processing and profile similarity analysis  
+- building recommendation or matching logic  
+- unsupervised learning (e.g., clustering)  
+- developing interactive web apps with Streamlit  
+- creating intuitive visual feedback for users  
