@@ -19,8 +19,8 @@ Suggestions are displayed along with visual explanations and groupings.
 - Python 🐍  
 - Streamlit  
 - Pandas  
-- Scikit-learn  
-- Seaborn / Matplotlib  
+- Pycaret 
+- Matplotlib  
 - CSV / JSON data  
 
 ---
