@@ -1,6 +1,6 @@
 # 🤝 Mate Me
 
-An interactive web application for matching potential friends or teammates based on shared traits, preferences, or personality characteristics. The app analyzes input data to suggest compatible "mates" — ideal for networking, study groups, or hobby connections.
+An interactive web application for matching potential friends or teammates based on shared traits, preferences, or personality characteristics. The app analyzes input data to suggest compatible mates - ideal for networking, study groups, or hobby connections.
 
 Suggestions are displayed along with visual explanations and groupings.
 
